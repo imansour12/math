@@ -31,4 +31,10 @@ Tree diagram:
 
 Total possible selections = ^{50}\textrm{C}_{6} = 15890700
 The favorable selections are choosing three males and three females.
-\frac {^{24}\textrm{C}_{3} * ^{26}\textrm{C}_{3} } {^{50}\textrm{C}_{6}}
+\frac {^{24}\textrm{C}_{3} * ^{26}\textrm{C}_{3} } {^{50}\textrm{C}_{6}} = 0.331
+
+### B
+\frac {^{41}\textrm{C}_{6} * ^{9}\textrm{C}_{0}}{^{50}\textrm{C}_{6}} + \frac {^{41}\textrm{C}_{5} * ^{9}\textrm{C}_{1} }{^{50}\textrm{C}_{6}} + \frac {^{41}\textrm{C}_{4} * ^{9}\textrm{C}_{2} } {^{50}\textrm{C}_{6}} = 0.937
+
+## Ex13 Page 142
+
